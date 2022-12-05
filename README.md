@@ -66,15 +66,9 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Judah1604&show_icons=true&theme=dark#gh-dark-mode-only" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judah1604&theme=dark#gh-dark-mode-only" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Judah1604&show_icons=true&theme=dark#gh-dark-mode-only" align="center" border="none"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judah1604&theme=dark#gh-dark-mode-only" align="center" border="none"/>
 </div>
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
 
 <br/>  
 
