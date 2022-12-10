@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Weather App](https://github.com/Judah1604/Weather-App)  
   
 
-- 🌱 I’m currently learning SASS and React  
+- 🌱 I’m currently learning SASS and Bootstrap 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -65,17 +65,6 @@
 </div>
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
