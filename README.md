@@ -64,6 +64,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judah1604&theme=dark#gh-dark-mode-only" align="center" border="none"/>
 </div>
 
+<br/>
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
 <br/>  
 
 ----
