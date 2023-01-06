@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Weather App](https://github.com/Judah1604/Weather-App)  
   
 
-- 🌱 I’m currently learning SASS and Bootstrap 
+- 🌱 I’m currently learning Vue.js 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -63,10 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Judah1604&show_icons=true&theme=dark#gh-dark-mode-only" align="center" border="none"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Judah1604&theme=dark#gh-dark-mode-only" align="center" border="none"/>
 </div>
-
-<br/>
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
