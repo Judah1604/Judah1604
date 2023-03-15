@@ -6,10 +6,10 @@
 ### <div align="center">I'm Judah, a front End Web freelance developer 👨‍💻 working remotely</div>  
   
 
-- 🔭 I’m currently working on [GAZU](https://github.com/Judah1604/GAZU)  
+- 🔭 I’m currently working on [Blogr](https://judah1604.github.io/Blogr-Landing-Page/)  
   
 
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning React.js 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
