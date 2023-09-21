@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Judah, a front End Web developer 👨‍💻</div>  
+### <div align="center">I'm Judah, a front End Web developer who loves to code👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Github user Search](https://judah1604.github.io/Github-user-search/)  
