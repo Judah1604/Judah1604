@@ -62,9 +62,5 @@
  <img src="https://streak-stats.demolab.com?user=Judah1604&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" align="center" />
 </div>
 
-<br/>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=314otqasgtmvks5udf44ocoiz2kq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" /></div> 
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
