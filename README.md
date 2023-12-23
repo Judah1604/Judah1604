@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [MoviPix Movie Site](https://github.com/Judah1604/movipix)
   
 
-- 🌱 I’m currently learning Redux Toolkit
+- 🌱 I’m currently learning Next.js
   
 
 - ⚡ Fun fact: I use tabs over spaces  
