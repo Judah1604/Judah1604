@@ -6,7 +6,7 @@
 ### <div align="center">I'm Judah, a front End Web developer who loves to code👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [MoviPix Movie Site](https://github.com/Judah1604/movipix)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Judah1604/My-Portfolio)
   
 
 - 🌱 I’m currently learning Next.js
