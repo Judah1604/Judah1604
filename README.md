@@ -1,7 +1,7 @@
 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,git,github,vscode,expressjs,figma" />
+  <img src="https://skillicons.dev/icons?i=js,npm,react,nextjs,nodejs,git,github,vscode,expressjs,supabase,figma" />
 </p>
 
 GitHub Stats
